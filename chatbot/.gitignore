@@ -78,9 +78,8 @@ celerybeat-schedule
 # dotenv
 .env
 
-# virtualenv
-venv/
-ENV/
+# chatbot/
+chatbot/
 
 # Spyder project settings
 .spyderproject
